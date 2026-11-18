@@ -1,7 +1,12 @@
 # Relatório da equipe
-Integrantes e contribuições:
+Integrantes e contribuições: Vitor, Artur, Jefferson
 Commit demonstrado:
 Versões e data de execução:
+
+
+#Respostas
+
+
 
 ## Evidências
 | Experimento | Comando | Resultado esperado | Resultado observado | Explicação |
